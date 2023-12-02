@@ -1,0 +1,2 @@
+Invoking command in '/home/artiom/repos/ros_workspaces/ros_py_learning/build/udemy_ros2_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/artiom/repos/ros_workspaces/ros_py_learning/build/udemy_ros2_pkg -- -j12 -l12
+Invoked command in '/home/artiom/repos/ros_workspaces/ros_py_learning/build/udemy_ros2_pkg' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/artiom/repos/ros_workspaces/ros_py_learning/build/udemy_ros2_pkg -- -j12 -l12
