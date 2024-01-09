@@ -21,6 +21,8 @@ source install/setup.bash
 
 Choose or design a 3D model of your robot using a tool like URDF (Unified Robot Description Format) or SDF (Simulation Description Format). URDF is commonly used in ROS.
 
+https://docs.ros.org/en/rolling/Tutorials/Intermediate/URDF/Building-a-Movable-Robot-Model-with-URDF.html
+
 ## 4. ROS 2 Simulation Packages:
 
 You'll need ROS 2 simulation packages that provide physics simulation and visualization capabilities. Two popular options are Gazebo and Webots. For this example, we'll use Gazebo.
